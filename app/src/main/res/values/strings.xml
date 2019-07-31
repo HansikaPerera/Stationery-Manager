@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Add Products</string>
+    <string name="text1">Product Name</string>
+    <string name="text2">Product Code</string>
+    <string name="text3">Cost Price</string>
+    <string name="text4">Selling Price</string>
+    <string name="text5">Quantity</string>
+    <string name="btn1">Add Products</string>
+    <string name="text6">Select Category</string>
+    <string-array name="combo_box1">
+        <item>Books</item>
+        <item>Pens</item>
+        <item>School Items</item>
+        <item>Office Items</item>
+    </string-array>
+
+    <string name="btn2">Delete Products</string>
+    <string name="ubtn1">Update Products</string>
+
+    <string name="sbtn1">Add Sales</string>
+</resources>
